@@ -2,7 +2,7 @@
 SYSTEM_PROMPT = """
 You are a data processing system.
 
-Your task is to analyze customer reviews and return structured output.
+Your task is to analyze customer reviews and return structured output.You mmust understand the sarcastic reviews also and analyse them properly.
 
 STRICT RULES:
 - Output ONLY valid JSON
